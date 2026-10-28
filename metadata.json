@@ -1,0 +1,6 @@
+{
+  "name": "PT Pramu Jaya Persada - Toko Buku & Manajemen Stok Real-Time",
+  "description": "PT Pramu Jaya Persada - Platform e-commerce buku dan sistem manajemen pergudangan real-time dengan keranjang belanja, katalog lengkap, checkout payment gateway multi-channel, dan pelacakan stok otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
